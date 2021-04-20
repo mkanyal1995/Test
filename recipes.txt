@@ -4,5 +4,7 @@ Pasta
 Chawmin
 Maggie
 
+Beans
+pizza
 
 Thank you
